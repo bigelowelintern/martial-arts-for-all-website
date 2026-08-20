@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//private/tmp/claude-501/**)",
+      "Read(//Users/bigelowel/Desktop/**)",
+      "Bash(find / -maxdepth 6 -type d -iname \"*paste*\")",
+      "Read(//Users/bigelowel/**)",
+      "Bash(lsof -ti:8123)",
+      "Bash(xargs kill)",
+      "Bash(python3 -c ' *)",
+      "WebFetch(domain:www.elitefreestylekarate.com)",
+      "Bash(sips -s format png --resampleWidth 400 \"Elite freestyle karate logo.png\" --out \"elite-freestyle-karate-logo.png\")",
+      "Bash(rm \"Elite freestyle karate logo.png\")",
+      "Bash(sips -g pixelWidth -g pixelHeight \"/Users/bigelowel/Desktop/MAFA website/Images/elite-freestyle-karate-logo.png\")",
+      "Bash(sips -s format jpeg -s formatOptions 82 --resampleWidth 600 \"Rikke Bitsch-Norhave_photo.jpg\" --out \"rikke-bitsch-norhave.jpg\")",
+      "Bash(rm \"Rikke Bitsch-Norhave_photo.jpg\")"
+    ]
+  }
+}
