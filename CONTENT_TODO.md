@@ -6,5 +6,5 @@ Placeholder content is marked in-page with an italic note. Replace before publis
 - **Programs**: dollar-tier amounts and descriptions (currently estimated placeholders).
 - **Partners**: Elite Freestyle Karate is the only entry so far, with a real logo, blurb, and website link — add more partner gyms as they're confirmed.
 - **Donation links**: verify the Venmo charity/nonprofit profile URL and final GiveButter campaign URL are both correct.
-- **Contact info**: real email, phone number, and social media links (Instagram/Facebook icons currently link to `#`).
-- **Domain**: once purchased, add a `CNAME` file at the repo root with the domain name for GitHub Pages.
+- **Contact info**: email is set to info@martialartsforallfoundation.org — confirm this inbox is live before launch; phone number was intentionally removed from the contact card and footer; Instagram is linked (https://www.instagram.com/martial_arts_for_all/), Facebook icon still links to `#`.
+- **Domain**: `CNAME` file is in place pointing to martialartsforallfoundation.org — done.
